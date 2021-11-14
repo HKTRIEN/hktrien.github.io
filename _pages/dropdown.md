@@ -1,12 +1,21 @@
 ---
 layout: page
-title: submenus
+title: Giảng dạy
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Toán
+      permalink: /toan/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Toán chuyên
+      permalink: /toan-chuyen/
+    - title: divider
+    - title: Olympiad
+    - title: divider
+    - title: Luyện thi lớp 10
+      permalink: /luyenthi-lop10/
+    - title: divider
+    - title: THPT Quốc Gia
+      permalink: /thpt-quocgia/
+      
 ---
