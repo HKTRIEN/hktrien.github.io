@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Giảng dạy
+title: giảng dạy
 nav: true
 dropdown: true
 children: 
