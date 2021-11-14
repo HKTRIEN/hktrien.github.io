@@ -11,6 +11,7 @@ children:
       permalink: /toan-chuyen/
     - title: divider
     - title: Olympiad
+      permalink: /olympiad/
     - title: divider
     - title: Luyện thi lớp 10
       permalink: /luyenthi-lop10/
