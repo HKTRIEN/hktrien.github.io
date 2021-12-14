@@ -4,8 +4,13 @@
 
 // Typography
 
+span.rev { unicode-bidi:bidi-override; direction:rtl }
+span.rev.phone:before { content:"617-656-" }
+span.rev.phone:after { content:" (48+)" }
+
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
+  text-align: justify;
 }
 
 hr {
@@ -71,7 +76,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 35%;
     .address {
       p { display: block; }
     }

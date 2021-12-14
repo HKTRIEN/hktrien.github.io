@@ -2,23 +2,20 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Giáo viên Toán, Trường THPT chuyên Lương Văn Chánh, Phú Yên.
 
 profile:
   align: right
   image: avatar.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>5 Đường Phan Lưu Thanh,</p>
+    <p>Phường 7, Tuy Hòa,</p>
+    <p>Phú Yên, Việt Nam</p>
+    <p><span class="rev phone">7790</span></p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received the bachelor degree from the [Department of Mathematics and Statistics](https://math.qnu.edu.vn/), Quy Nhon University, Vietnam, in 2010, and the Master ACSYON degree from [Université de Limoges](https://www.unilim.fr/acsyon/), France, in 2012. Currently, I teach Mathematics at Luong Van Chanh Specialist High School, Phu Yen Province, Vietnam.
